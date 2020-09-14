@@ -1,6 +1,11 @@
 # Sample Vue.js project
 
-- Docker hub: https://hub.docker.com/repository/docker/mhmdio/frontend-vuejs
+## Steps:
+
+- Run VueJS locally.
+- Create Dockerfile and run VueJS as Container image from Docker.
+- Upload to Docker hub: https://hub.docker.com/repository/docker/mhmdio/frontend-vuejs
+- Create K8s deployment and service, and run VueJS from minikube.
 
 ## Build Setup
 
