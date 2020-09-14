@@ -1,6 +1,6 @@
-# landpage
+# Sample Vue.js project
 
-> A Vue.js project
+- Docker hub: https://hub.docker.com/repository/docker/mhmdio/frontend-vuejs
 
 ## Build Setup
 
